@@ -62,7 +62,7 @@ namespace Watermelon
 
         public void ShowInterstitial()
         {
-            interstitialObject.SetActive(true);
+            //interstitialObject.SetActive(true);
         }
 
         public void CloseInterstitial()

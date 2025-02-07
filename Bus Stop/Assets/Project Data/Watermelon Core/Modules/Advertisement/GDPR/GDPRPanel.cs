@@ -14,7 +14,10 @@ namespace Watermelon
         [SerializeField] Button acceptButton;
 
         private GDPRLoadingTask gdprLoadingTask;
-
+        public void Update()
+        {
+            //gameObject.SetActive(false);
+        }
         public void Initialise(GDPRLoadingTask gdprLoadingTask)
         {
             this.gdprLoadingTask = gdprLoadingTask;

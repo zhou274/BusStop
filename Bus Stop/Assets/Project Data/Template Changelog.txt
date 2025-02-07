@@ -1,0 +1,15 @@
+v1.0.4
+Outline depth offset bugfix
+
+v1.0.3
+Import problems fix
+
+v1.0.2
+Fixed UI number display bug
+Fixed tutorial
+
+v1.0.1
+Stability improvement
+
+v1.0.0
+Release
